@@ -361,7 +361,7 @@ a.btn_1,
 .btn_1 {
   border: none;
   color: #fff;
-  background: #978667;
+  background: #E24558;
   outline: none;
   cursor: pointer;
   display: inline-flex;
@@ -2430,4 +2430,8 @@ textarea.form-control {
   .add_top_90 {
     padding-top: 60px;
   }
+}
+
+.off {
+  text-decoration:line-through;
 }
