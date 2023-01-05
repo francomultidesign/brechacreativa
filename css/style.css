@@ -360,8 +360,8 @@ a:hover, a:focus {
 a.btn_1,
 .btn_1 {
   border: none;
-  color: #fff;
-  background: #E24558;
+  color: #1D1D1B !important;
+  background: #ebd7b2;
   outline: none;
   cursor: pointer;
   display: inline-flex;
@@ -380,12 +380,13 @@ a.btn_1,
 }
 a.btn_1:hover,
 .btn_1:hover {
-  background-color: #4b514d;
+  background-color: #1D1D1B;
+  color: #ebd7b2 !important;
 }
 a.btn_1.inverse,
 .btn_1.inverse {
   background-color: #fff;
-  color: #333;
+  color: #ebd7b2 !important;
 }
 a.btn_1.full-width,
 .btn_1.full-width {
