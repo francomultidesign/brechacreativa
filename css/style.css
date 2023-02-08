@@ -2436,3 +2436,13 @@ textarea.form-control {
 .off {
   text-decoration:line-through;
 }
+
+.text-underline {
+  text-decoration: underline;
+}
+
+@media (min-width: 767px) {
+  .float-md-left {
+    float:left;
+  }
+}
