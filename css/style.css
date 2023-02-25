@@ -901,8 +901,11 @@ img.jarallax-img.kenburns-2 {
   letter-spacing: 0px;
   display: block;
   margin: 0 0 10px 0;
-  color: #ebd7b2;
+  color: #ffffff;
   font-weight: 400;
+}
+.hero .wrapper small strong {
+  color: #ebd7b2;
 }
 .hero .wrapper h1,
 .hero .wrapper h3 {
