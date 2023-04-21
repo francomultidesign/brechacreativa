@@ -2145,6 +2145,11 @@ a.box_cat_rooms:hover .background-image {
   position: relative;
   width: 118px;
 }
+
+#promo-video {
+  display: none;
+
+}
 @media (max-width: 767px) {
   .opacity-mask {
     background: rgba(0, 0, 0, 0.7)
