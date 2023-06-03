@@ -1455,6 +1455,16 @@ a.box_cat_rooms:hover .background-image {
   border-right: 0;
   border-image: linear-gradient(to bottom, #ededed, transparent) 1 60%;
 }
+
+
+
+@media (min-width: 1281px) {
+  #homepage .video-iphone img {
+    margin: -39px 0px 0 153px;
+  }  
+}
+
+
 @media (max-width: 1280px) {
   .home-text-position {
     top: 440px;
